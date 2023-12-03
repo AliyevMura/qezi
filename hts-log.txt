@@ -1,0 +1,15 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 09 Jun 2023 19:10:21 at https://doctortap.az/clinic_list/az +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://doctortap.az/clinic_list/az -O1 "C:\My Web Sites\Klinika" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:10:53	Error: 	"Not Found" (404) at link https://doctortap.az/clinic_list/favicon.ico (from https://doctortap.az/clinic_list/az)
+19:10:54	Warning: 	Retry after error -5 (error:00000001:lib(0):func(0):reason(1)) at link https://code.tidio.co:443/f9dvsshwtjtli35xcondrosbu5rescgh.js (from https://doctortap.az/clinic_list/az)
+19:10:54	Warning: 	Retry after error -5 (error:00000001:lib(0):func(0):reason(1)) at link https://code.tidio.co:443/f9dvsshwtjtli35xcondrosbu5rescgh.js (from https://doctortap.az/clinic_list/az)
+19:10:55	Error: 	"error:00000001:lib(0):func(0):reason(1)" (-5) after 2 retries at link https://code.tidio.co:443/f9dvsshwtjtli35xcondrosbu5rescgh.js (from https://doctortap.az/clinic_list/az)
+
+HTTrack Website Copier/3.49-2 mirror complete in 34 seconds : 119 links scanned, 114 files written (4260400 bytes overall) [3711476 bytes received at 109161 bytes/sec], 921243 bytes transferred using HTTP compression in 20 files, ratio 26%, 6.9 requests per connection
+(2 errors, 2 warnings, 0 messages)

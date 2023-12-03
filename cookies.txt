@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+doctortap.az	TRUE	/	FALSE	1999999999	PHPSESSID	592dd971a7a746a83dda1c4fc564edb8
+doctortap.az	TRUE	/	FALSE	1999999999	cookie_basket_user_session	9171ceed2edd85759b97084e14d0f567
+.onesignal.com	TRUE	/	FALSE	1999999999	__cf_bm	gxbhHFVmdPyVNuNxFbo54qigZPECxLUhC6LR0pJ5jto-1686323428-0-Ad+26uFD/SAOL2dkshrTX9GroYCxdw4Eyq6wZHRr4CekhrXDaFRPm8DjrRbR49iYGZbzQf9g9ATgkvv2c7K4QJE=
+cdn.onesignal.com	TRUE	/	FALSE	1999999999	SameSite	None
+
